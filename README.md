@@ -15,8 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 显示语言统计
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjl-github&layout=compact&theme=transparent)
+
+
+# 显示 GitHub 活跃度统计
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=cjl-github&theme=transparent)
+
 # 显示最新项目
-![Repos](https://github-readme-stats.vercel.app/api/pin/?username=tech-shrimp&repo=your-repo-name&theme=transparent)
+![Repos](https://github-readme-stats.vercel.app/api/pin/?username=cjl-github&repo=your-repo-name&theme=transparent)
 
 
 # 仓库状态统计
