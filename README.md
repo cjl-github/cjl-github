@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 显示最新项目
+![Repos](https://github-readme-stats.vercel.app/api/pin/?username=tech-shrimp&repo=your-repo-name&theme=transparent)
+
+
 # 仓库状态统计
 ![](https://github-readme-stats.vercel.app/api?username=cjl-github&show_icons=true&theme=transparent)
 
